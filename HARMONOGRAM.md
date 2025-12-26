@@ -29,7 +29,7 @@ _Poniższe ceny obowiązują wyłącznie w oknie Pre-sale. Od 01.04.2026 ceny ro
 ## 🚦 STATUS_SYSTEMU
 
 **REKRUTACJA:** KALIBRACJA_SYSTEMU  
-**START_ZAPISÓW_WHITELIST:** 05.01.2026
+**START_ZAPISÓW_WHITELIST:** 01.01.2026
 
 [ DOŁĄCZ_DO_WHITELISTY ]
 
@@ -37,7 +37,7 @@ _Poniższe ceny obowiązują wyłącznie w oknie Pre-sale. Od 01.04.2026 ceny ro
 
 ## 🏷️ WARUNKI_OPERACYJNE (WHITELIST & PRE-SALE)
 
-1.  **FAZA_01: WHITELIST (od 05.01.2026)**
+1.  **FAZA_01: WHITELIST (od 01.01.2026)**
 
     - Otwarcie zapisów na listę oczekujących.
     - Gwarancja miejsca w wybranym Squadzie (ścisły limit 10 osób/grupa).
