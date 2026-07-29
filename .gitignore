@@ -13,6 +13,7 @@ wheels/
 PRIVATE/
 image/
 PROGRAM/
+prompt/
 
 PROGRAM_01.md
 PROGRAM_02/md

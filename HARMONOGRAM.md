@@ -1,22 +1,22 @@
-# 📂 INŻYNIERIA_AI // KUŹNIA_OPERATORÓW_2026
+# 📂 INŻYNIERIA_AI // KUŹNIA_OPERATORÓW_2027
 
 Uzbrajamy inżynierów nowej generacji w technologie dające całkowitą suwerenność. Projektujemy i wdrażamy systemy AI, które działają lokalnie, są bezpieczne i skalowalne. Eliminujemy uzależnienie od SaaS na rzecz własnego stosu technologicznego.
 
 ---
 
-## 🗓️ HARMONOGRAM_OPERACYJNY_2026
+## 🗓️ HARMONOGRAM_OPERACYJNY_2027
 
 | Kurs                                     | Start kursu | Czas trwania | Spotkania LIVE          | Tygodnie |
 | :--------------------------------------- | :---------- | :----------- | :---------------------- | :------- |
-| **PROGRAM_01: AI_ENGINEERING_BOOTCAMP**  | 01.04.2026  | 5 miesięcy   | 2x / tydz. (90–120 min) | ~20      |
-| **PROGRAM_02: FINANCIAL_AI_ENGINEERING** | 01.05.2026  | 5 miesięcy   | 2x / tydz. (90–120 min) | ~20      |
-| **PROGRAM_03: NEURAL_ARCHITECTURE**      | 01.06.2026  | 5 miesięcy   | 2x / tydz. (90–120 min) | ~20      |
+| **PROGRAM_01: AI_ENGINEERING_BOOTCAMP**  | 01.02.2027  | 5 miesięcy   | 2x / tydz. (90–120 min) | ~20      |
+| **PROGRAM_02: FINANCIAL_AI_ENGINEERING** | 01.02.2027  | 5 miesięcy   | 2x / tydz. (90–120 min) | ~20      |
+| **PROGRAM_03: NEURAL_ARCHITECTURE**      | 01.02.2027  | 5 miesięcy   | 2x / tydz. (90–120 min) | ~20      |
 
 ---
 
-## 💰 MATRYCA_INWESTYCYJNA (PRZEDSPRZEDAŻ: 01.03 – 31.03)
+## 💰 MATRYCA_INWESTYCYJNA (PRZEDSPRZEDAŻ: 01.01 – 31.01.2027)
 
-_Poniższe ceny obowiązują wyłącznie w oknie Pre-sale. Od 01.04.2026 ceny rosną o 20%._
+_Poniższe ceny obowiązują wyłącznie w oknie Pre-sale. Od 01.02.2027 ceny rosną o 20%._
 
 | Kurs           | Model SQUAD (mc) | KOSZT_CAŁKOWITY | Model INDYWID. (mc) | KOSZT_CAŁKOWITY |
 | :------------- | :--------------- | :-------------- | :------------------ | :-------------- |
@@ -29,7 +29,8 @@ _Poniższe ceny obowiązują wyłącznie w oknie Pre-sale. Od 01.04.2026 ceny ro
 ## 🚦 STATUS_SYSTEMU
 
 **REKRUTACJA:** KALIBRACJA_SYSTEMU  
-**START_ZAPISÓW_WHITELIST:** 01.01.2026
+**ZAPISY_WHITELIST:** 01.11.2026 – 31.12.2026  
+**START_PROGRAMÓW:** 01.02.2027
 
 [ DOŁĄCZ_DO_WHITELISTY ]
 
@@ -37,19 +38,19 @@ _Poniższe ceny obowiązują wyłącznie w oknie Pre-sale. Od 01.04.2026 ceny ro
 
 ## 🏷️ WARUNKI_OPERACYJNE (WHITELIST & PRE-SALE)
 
-1.  **FAZA_01: WHITELIST (od 01.01.2026)**
+1.  **FAZA_01: WHITELIST (01.11.2026 – 31.12.2026)**
 
     - Otwarcie zapisów na listę oczekujących.
     - Gwarancja miejsca w wybranym Squadzie (ścisły limit 10 osób/grupa).
     - Rezerwacja prawa do najniższej ceny Pre-sale.
 
-2.  **FAZA_02: PRE-SALE (01.03 – 31.03.2026)**
+2.  **FAZA_02: PRE-SALE (01.01 – 31.01.2027)**
 
     - Okno zakupowe dla osób z Whitelisty.
     - **Dodatkowe 5% rabatu** od cen przedsprzedażowych podanych w tabeli.
     - Dostęp do platformy SYNC i materiałów wstępnych (Prep-work).
 
-3.  **FAZA_03: OPEN_SALE (od 01.04.2026)**
+3.  **FAZA_03: OPEN_SALE (od 01.02.2027)**
     - Koniec okna przedsprzedaży.
     - Wprowadzenie **Cen Standardowych (+20% do każdej raty)**.
     - Zapisy tylko w miarę dostępności pozostałych slotów.
